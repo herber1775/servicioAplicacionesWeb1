@@ -12,7 +12,7 @@ import com.ecommerce.model.Producto;
 import com.ecommerce.service.ProductoService;
 
 @Controller
-@RequestMapping("/")
+@RequestMapping("/administrador")
 public class AdministradorController {
 	
 	@Autowired
